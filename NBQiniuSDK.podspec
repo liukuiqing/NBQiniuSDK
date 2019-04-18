@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary      = "七牛SDK"
   s.platform     =  :ios, "7.0"
   s.source       = { :git => "https://github.com/liukuiqing/NBQiniuSDK.git", :tag => "1.0" }
-
+s.license = 'MIT'
 
 #s.source_files  = "QiniuSDK", "QiniuSDK/**/*.{h,m}"
 
