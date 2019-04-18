@@ -14,7 +14,7 @@ s.subspec "QiniuSDk" do |qiniuSDk|
 qiniuSDk.source_files  = "QiniuSDK/**/*.{h,m}"
 end
 
-  s.frameworks   =  "CoreLocation","CoreTelephony","AddressBook","AudioToolbox","AVFoundation","SystemConfiguration"
+#s.frameworks   =  "CoreLocation","CoreTelephony","AddressBook","AudioToolbox","AVFoundation","SystemConfiguration"
   s.requires_arc = true
 
 end
