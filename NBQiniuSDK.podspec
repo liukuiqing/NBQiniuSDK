@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "NBQiniuSDK"
   s.version      = "1.0"
-  s.homepage     = "https://git.oschina.net/namibox"
+  s.homepage     = "https://github.com/liukuiqing/NBQiniuSDK"
   s.author       = { "NBQiniuSDK" => "liukuiqing" }
   s.summary      = "七牛SDK"
   s.platform     =  :ios, "7.0"
